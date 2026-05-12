@@ -1,0 +1,65 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1778371574371,
+  "projectRoot": "/home/jon/userspace/src/website-wp-theme-template",
+  "techStack": {
+    "languages": [
+      {
+        "name": "PHP",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "composer.json"
+        ]
+      }
+    ],
+    "frameworks": [],
+    "packageManager": "composer",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {},
+  "hotPaths": [
+    {
+      "path": "AGENTS.md",
+      "accessCount": 3,
+      "lastAccessed": 1778371790218,
+      "type": "file"
+    },
+    {
+      "path": "composer.json",
+      "accessCount": 2,
+      "lastAccessed": 1778371762988,
+      "type": "file"
+    },
+    {
+      "path": "style.css",
+      "accessCount": 2,
+      "lastAccessed": 1778371763034,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
